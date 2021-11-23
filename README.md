@@ -1,6 +1,3 @@
 # crashtestdummy
 
-going to make mistakes her
-
-ONE TWO THEE
-another amend
+going to make mistakes here
